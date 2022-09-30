@@ -1,0 +1,43 @@
+h1 {
+  font-family:monospace;
+  padding-left: 20px;
+}
+
+label {
+  font-family: monospace;
+  font-size: x-large;
+}
+
+input {
+  width: 1.6cm;
+  border: 1px solid grey;
+  font-family: monospace;
+  font-size: large;
+}
+
+div {
+  padding-left: 20px;
+  padding-top:10px;
+}
+
+output {
+  font-family: monospace;
+  font-size: large;
+  border: 1px solid grey;
+}
+
+button {
+  transition-duration: 0.4s;
+  background-color: lightcoral;
+  color: black;
+  border: 2px solid red;
+  border-radius: 4px;
+  padding-block: 10px;
+  font-family:monospace;
+  font-size: large;
+}
+
+button:hover {
+  background-color: red;
+  color: white;
+}
